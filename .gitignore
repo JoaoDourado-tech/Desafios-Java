@@ -1,0 +1,15 @@
+# Ignorar arquivos de compilação (lixo que o Java cria)
+*.class
+out/
+target/
+bin/
+
+# Ignorar arquivos da IDE IntelliJ (configurações locais suas)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Ignorar arquivos do Sistema Operacional (lixo do Windows/Mac)
+.DS_Store
+Thumbs.db
