@@ -10,6 +10,9 @@ bin/
 *.iws
 *.ipr
 
+# Ignorar logs de erro fatal da JVM (Crash logs)
+hs_err_pid*
+
 # Ignorar arquivos do Sistema Operacional (lixo do Windows/Mac)
 .DS_Store
 Thumbs.db
